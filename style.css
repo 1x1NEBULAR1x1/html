@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Ysabeau+Office&display=swap');
 body{
   background-color:#23002b;
+  padding: 0px 5px;
 }
 .cf{
-  margin:auto;
-  width: 98vw;
+  width:100%;
   background-color:#121212;
   padding-top:2%;
 }
