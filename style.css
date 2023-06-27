@@ -5,7 +5,7 @@ body{
 }
 .cf{
   margin:auto;
-  width: 98%;
+  width: 98vw;
   background-color:#121212;
   padding-top:2%;
 }
@@ -84,6 +84,9 @@ body{
   color: white;
   font-family:'Titillium Web';
   font-size: 20px;
+}
+.link a:hover{
+  text-decoration:underline;
 }
 #instagram{
   color: #f07613;
