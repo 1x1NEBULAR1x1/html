@@ -4,9 +4,7 @@ body{
   background-color:#23002b;
 }
 .cf{
-  margin-left:1%;
-  margin-right:1%;
-  align: center;
+  margin:auto;
   width: 98%;
   background-color:#121212;
   padding-top:2%;
